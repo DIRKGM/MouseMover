@@ -18,7 +18,7 @@ Ein einfaches Python-Skript, das die Maus in zufälligen Abständen bewegt, um I
 ## Installation
 
 1. **Python installieren:** [Python-Download](https://www.python.org/downloads/)
-2. **Abhängigkeiten installieren:** Installiere die benötigte Bibliothek mit:
+2. Abhängigkeiten installieren:** Installiere die benötigte Bibliothek mit:
    ```bash
    pip install pyautogui
 
