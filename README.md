@@ -60,5 +60,11 @@ A simple Python script that moves the mouse at random intervals to prevent inact
 ## Usage
   1. Save the script as mouse_mover.py.
   2. Run the script in the command line:
-  ``` bash 
-   python mouse_mover.py  
+     ```bash
+     python mouse_mover.py
+  4. The script will start and move the mouse at random intervals.
+  5. Press Ctrl+C to stop the program.
+
+## Notes
+Use at your own risk: Ensure that the application does not violate any security policies or terms of use.
+The script is intended for personal use and can be useful in scenarios such as preventing screensavers.
