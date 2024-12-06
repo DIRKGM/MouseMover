@@ -25,9 +25,11 @@ Ein einfaches Python-Skript, das die Maus in zufälligen Abständen bewegt, um I
 ## Verwendung
   
   1. Speichere das Skript als mouse_mover.py.
-  2. Führe das Skript in der Kommandozeile aus: ```bash python mouse_mover.py
-  4. Das Skript startet und bewegt die Maus automatisch in zufälligen Intervallen.
-  5. Drücke Strg+C, um das Programm zu beenden.
+  2. Führe das Skript in der Kommandozeile aus:
+     ```bash
+     python mouse_mover.py
+  3. Das Skript startet und bewegt die Maus automatisch in zufälligen Intervallen.
+  4. Drücke Strg+C, um das Programm zu beenden.
 
 ## Hinweise
 Verwendung auf eigene Gefahr: Stellen Sie sicher, dass die Anwendung keine Sicherheitsrichtlinien oder Nutzungsbedingungen verletzt.
@@ -50,17 +52,13 @@ A simple Python script that moves the mouse at random intervals to prevent inact
 
 ## Installation
 
-1. **Install Python:** [Python Download](https://www.python.org/downloads/)
-2. **Install dependencies:** Install the required library using:
+1. Install Python: [Python Download](https://www.python.org/downloads/)
+2. Install dependencies: Install the required library using:
+   ``` bash
    pip install pyautogui
 
 ## Usage
   1. Save the script as mouse_mover.py.
   2. Run the script in the command line:
-    python mouse_mover.py
-  3. The script will start and move the mouse at random intervals.
-  4. Press Ctrl+C to stop the program.
-
-## Notes
-Use at your own risk: Ensure that the application does not violate any security policies or terms of use.
-The script is intended for personal use and can be useful in scenarios such as preventing screensavers.
+  ``` bash 
+   python mouse_mover.py  
